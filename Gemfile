@@ -11,7 +11,6 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 3.11'
 gem 'pry'
 gem 'jquery-rails'
-gem 'rubocop'
 gem 'devise'
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets
